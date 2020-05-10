@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Unity Asset Mode" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
