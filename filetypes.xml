@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="qtn" type="PLAIN_TEXT" />
       <mapping ext="mqtn" type="PLAIN_TEXT" />
+      <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
