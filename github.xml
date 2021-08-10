@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="FrozenPhoenixGames" id="92d42ebb-7e99-4b83-98cd-95257ed89dc4">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
