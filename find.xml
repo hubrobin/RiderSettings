@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'BakeryEditorAssembly'" />
+    <option name="defaultScopeName" value="Project 'BakeryEditorAssembly'" />
+    <option name="SEARCH_SCOPE" value="Project 'BakeryEditorAssembly'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
